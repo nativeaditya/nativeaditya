@@ -1,3 +1,5 @@
+<img src='https://pbs.twimg.com/profile_banners/300061567/1534245992/1500x500' width='1200"'></img>
+
 ### Hi there, i'm Aditya 👋
 
 # 👇👇👇👇
