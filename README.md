@@ -1,6 +1,6 @@
 ### Hi there, i'm Aditya 👋
 
-
+# 📱
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nativeaditya)
 [![LinkedIn](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/adityapahansu)
 [![LinkedIn](https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.Instagram.com/adityapahansu)
