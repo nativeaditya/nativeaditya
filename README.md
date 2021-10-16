@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/nativeaditya/nativeaditya/main/wallpaper-git.png" width='1200"'></img>
+
 
 ### Hi there, i'm Aditya 👋
 
