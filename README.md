@@ -1,4 +1,4 @@
-
+<img align="right" src="https://raw.githubusercontent.com/nativeaditya/nativeaditya/main/giphy.gif" width="380" >
 
 ### Hi there, i'm Aditya 👋
 
